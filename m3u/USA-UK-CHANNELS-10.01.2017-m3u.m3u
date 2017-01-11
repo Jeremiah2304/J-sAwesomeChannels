@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,US: NFL Network Now
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1041.ts
-#EXTINF:0,US: RDS2 HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1086.ts
+#EXTINF:0,US: NFL Network HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1054.ts
 #EXTINF:0,US: Astro SuperSport 1
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1031.ts
 #EXTINF:0,US: Astro SuperSport 2
@@ -43,8 +43,6 @@ http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1047.ts
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1048.ts
 #EXTINF:0,US: NBC GOLF
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1049.ts
-#EXTINF:0,US: NFL Network HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1054.ts
 #EXTINF:0,US: NHL Network
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1106.ts
 #EXTINF:0,US: W*E Network HD
