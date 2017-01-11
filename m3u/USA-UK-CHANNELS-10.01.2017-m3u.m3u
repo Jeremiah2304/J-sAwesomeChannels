@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0,US: NFL Network Now
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1041.ts
-#EXTINF:-1,USA:NFL Channel HD
-http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6172.ts
 #EXTINF:0,US: RDS2 HD
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1086.ts
 #EXTINF:0,US: Astro SuperSport 1
