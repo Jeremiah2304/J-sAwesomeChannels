@@ -1,6 +1,8 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0,US: NFL Network Now
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1041.ts
+#EXTINF:-1,USA:NFL Channel HD
+http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6172.ts
 #EXTINF:0,US: RDS2 HD
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1086.ts
 #EXTINF:0,US: Astro SuperSport 1
@@ -89,16 +91,12 @@ http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1088.ts
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1061.ts
 #EXTINF:0,US: Spike
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1062.ts
-#EXTINF:0,US: TNT
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1096.ts
 #EXTINF:0,US: AMC
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1097.ts
 #EXTINF:0,US: TBS
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1098.ts
 #EXTINF:0,US: SYFY
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1095.ts
-#EXTINF:0,US: Bravo HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1055.ts
 #EXTINF:0,US: KTLA /CW
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1089.ts
 #EXTINF:0,US: BYU TV
@@ -107,7 +105,7 @@ http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1085.ts
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1101.ts
 #EXTINF:0,US: CW
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1071.ts
-#EXTINF:0,US: E!
+#EXTINF:0,US: E! HD
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1102.ts
 #EXTINF:0,US: Fox HD
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1093.ts
@@ -145,13 +143,11 @@ http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1107.ts
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1090.ts
 #EXTINF:0,US: ABC
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1092.ts
-#EXTINF:0,US: ABC News
+#EXTINF:0,US: ABC News HD
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1091.ts
-#EXTINF:0,US: Bloomberg
+#EXTINF:0,US: Bloomberg HD
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1108.ts
-#EXTINF:0,US: WGN
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1104.ts
-#EXTINF:-1,USA:WWE
+#EXTINF:-1,USA:WWE HD
 http://www.tunisiaiptv.com:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/3254.ts
 #EXTINF:-1,USA:USA-Network
 http://www.tunisiaiptv.com:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/3248.ts
@@ -175,8 +171,6 @@ http://www.tunisiaiptv.com:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/3241.ts
 http://www.tunisiaiptv.com:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/3243.ts
 #EXTINF:-1,USA:ABC_HD
 http://www.tunisiaiptv.com:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/3247.ts
-#EXTINF:-1,|-----------U.S.A-----------|
-http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6186.ts
 #EXTINF:-1,USA:TSN Sports 1
 http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6181.ts
 #EXTINF:-1,USA:TSN Sports 2
@@ -193,8 +187,6 @@ http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/7292.ts
 http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6163.ts
 #EXTINF:-1,USA:NBC HD
 http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6171.ts
-#EXTINF:-1,USA:NFL Channel HD
-http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6172.ts
 #EXTINF:-1,USA:HBO Signature
 http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6168.ts
 #EXTINF:-1,USA:HBO 1
@@ -221,7 +213,3 @@ http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6161.ts
 http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6175.ts
 #EXTINF:-1,USA:AMC HD
 http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6170.ts
-#EXTINF:-1,USA:ABC
-http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6160.ts
-#EXTINF:-1,USA:5 USA
-http://188.165.210.130:8000/live/p3Oio5FPFx/Hfr7HsdMiA/6179.ts
